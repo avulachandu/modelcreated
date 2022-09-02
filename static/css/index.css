@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+}
+h2{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+    display: block;
+    bottom: 0%;
+    width: 100%;
+    position: fixed;
+}
